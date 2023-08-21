@@ -1,0 +1,25 @@
+﻿  cylinder.cpp
+  info.cpp
+  BuildTheScence.cpp
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\BuildTheScence.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(293,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(576,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(577,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(581,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(582,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(584,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(585,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(592,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\SNHU\C330\WK7\ToSubmitFinal2\FinalProject\FinalProject\main.cpp(676,21): warning C4018: '<': signed/unsigned mismatch
+  BuildsShapes.cpp
+  Generating Code...
+  glad.c
+Debug\BuildsShapes.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\BuildTheScence.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\cylinder.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\glad.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\info.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  FinalProject.vcxproj -> D:\SNHU\C330\WK7\ToSubmitFinal2\Debug\FinalProject.exe
